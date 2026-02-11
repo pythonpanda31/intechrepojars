@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Nov 05 17:08:32 IST 2023
+spring-test-6.0.13.jar>central=
+spring-test-6.0.13-sources.jar>central=
+spring-test-6.0.13.pom>central=
